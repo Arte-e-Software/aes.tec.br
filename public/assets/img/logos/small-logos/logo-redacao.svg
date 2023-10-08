@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg viewBox="0 0 177 150" xmlns="http://www.w3.org/2000/svg" xmlns:bx="https://boxy-svg.com">
+  <defs>
+    <bx:guide x="9.404" y="6.234" angle="0"/>
+  </defs>
+  <rect x="9.404" y="11.761" width="148.38" height="17.868" style=""/>
+  <rect x="9.404" y="39.364" width="125.044" height="17.868" style=""/>
+  <rect x="9.404" y="66.902" width="134.63" height="17.868" style=""/>
+  <rect x="9.404" y="95.21" width="111.965" height="17.868" style=""/>
+  <rect x="9.404" y="121.988" width="126.474" height="17.868" style=""/>
+</svg>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg data-name="Layer 1" width="733.86247" height="702.19479" viewBox="0 0 177 150" xmlns="http://www.w3.org/2000/svg" xmlns:bx="https://boxy-svg.com">
+  <title>cloud_files</title>
+  <rect x="9.276" y="10.904" width="161.659" height="126.509" style="stroke: rgb(0, 0, 0); fill: rgb(255, 255, 255); stroke-width: 6px;" rx="6.68" ry="6.68"/>
+  <g style="" transform="matrix(1.073727, 0, 0, 1, -29.217665, 2.823978)">
+    <rect x="162.982" y="91.399" width="5.125" height="5.419" style=""/>
+    <rect x="147.528" y="81.582" width="5.125" height="5.419" style=""/>
+    <rect x="156.702" y="99.544" width="5.125" height="5.419" style=""/>
+    <rect x="148.428" y="106.392" width="5.125" height="5.419" style=""/>
+    <rect x="148.754" y="94.545" width="5.125" height="5.419" style=""/>
+    <rect x="163.138" y="110.317" width="5.125" height="5.419" style=""/>
+    <rect x="139.974" y="97.8" width="5.125" height="5.419" style=""/>
+    <rect x="133.677" y="91.642" width="5.125" height="5.419" style=""/>
+    <rect x="133.221" y="104.832" width="10.635" height="11.244" style=""/>
+    <ellipse style="fill: rgb(255, 255, 255);" cx="138.476" cy="110.469" rx="2.317" ry="2.449"/>
+    <rect x="157.591" y="78.772" width="10.635" height="11.244" style=""/>
+    <ellipse style="fill: rgb(255, 255, 255);" cx="162.845" cy="84.41" rx="2.317" ry="2.449"/>
+    <rect x="133.305" y="78.913" width="10.635" height="11.244" style=""/>
+    <ellipse style="fill: rgb(255, 255, 255);" cx="138.56" cy="84.543" rx="2.317" ry="2.449"/>
+  </g>
+  <text style="white-space: pre; fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 6.8px;" x="88.752" y="31.45"> </text>
+  <text style="white-space: pre; fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 6.8px;" x="22.725" y="-116.14" transform="matrix(1, 0, 0, -1, 0, 0)"> </text>
+  <rect x="20.799" y="-123.662" width="77.413" height="7.099" style="stroke: rgb(12, 12, 153); fill: rgb(6, 11, 114);" transform="matrix(1, 0, 0, -1, 0, 0)"/>
+  <rect x="88.969" y="-53.455" width="57.26" height="7.099" style="stroke: rgb(12, 12, 153); fill: rgb(6, 11, 114);" transform="matrix(1, 0, 0, -1, 0, 0)"/>
+  <path d="M 44.852 24.016 L 51.193 42.259 L 70.503 42.653 L 55.112 54.321 L 60.705 72.807 L 44.852 61.775 L 28.999 72.807 L 34.592 54.321 L 19.201 42.653 L 38.511 42.259 Z" style="fill: rgb(255, 0, 0);" bx:shape="star 44.852 50.987 26.971 26.971 0.4 5 1@1c4328d7"/>
+  <rect x="22.096" y="-109.041" width="55.214" height="7.099" style="stroke: rgb(12, 12, 153); fill: rgb(6, 11, 114);" transform="matrix(1, 0, 0, -1, 0, 0)"/>
+  <rect x="97.158" y="-61.74" width="37.062" height="3.151" style="stroke: rgb(12, 12, 153); fill: rgb(6, 11, 114);" transform="matrix(1, 0, 0, -1, 0, 0)"/>
+</svg>
